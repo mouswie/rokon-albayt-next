@@ -1,0 +1,45 @@
+{
+    "furniture": [
+        {
+            "id": 1,
+            "name": "كرسي خشبي أنيق",
+            "details": "كرسي مريح بتصميم عصري من الخشب الطبيعي.",
+            "price": 120,
+            "image": "furniture1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "طاولة طعام",
+            "details": "طاولة خشبية تكفي لـ 6 أشخاص.",
+            "price": 450,
+            "image": "furniture2.jpg"
+        }
+    ],
+    "appliances": [
+        {
+            "id": 3,
+            "name": "ثلاجة LG 400L",
+            "details": "ثلاجة اقتصادية وعملية بسعة 400 لتر.",
+            "price": 950,
+            "image": "fridge.jpg"
+        }
+    ],
+    "tools": [
+        {
+            "id": 4,
+            "name": "مثقاب كهربائي",
+            "details": "مثقاب قوي مع سرعات متعددة للاستخدام المنزلي والمهني.",
+            "price": 200,
+            "image": "drill.jpg"
+        }
+    ],
+    "electronics": [
+        {
+            "id": 5,
+            "name": "شاشة سامسونج 50 بوصة",
+            "details": "شاشة UHD ذكية بدقة 4K.",
+            "price": 1350,
+            "image": "tv.jpg"
+        }
+    ]
+}
